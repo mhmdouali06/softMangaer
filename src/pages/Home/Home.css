@@ -1,0 +1,32 @@
+.second_div_home {
+  background-color: #3f37c9;
+}
+.second_div_home button {
+  margin-top: 7%;
+  color: #3f37c9;
+
+  text-align: center;
+  font-family: Josefin Sans;
+  font-size: 0.8375rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  max-height: 2rem !important;
+}
+.second_div_home .secondbutton {
+  background: #fff;
+}
+.left_div_home {
+  width: 50% !important;
+}
+.left_div_home .first_button {
+  background: #3f37c9;
+  color: white;
+  font-family: Josefin Sans;
+  font-size: 0.8375rem;
+}
+.left_div_home .second_button {
+  border: #3f37c9 1px solid;
+  font-family: Josefin Sans;
+  font-size: 0.8375rem;
+}

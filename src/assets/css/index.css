@@ -1,0 +1,34 @@
+:root {
+  --premier-color: #3f37c9;
+  --second-color: #0f0;
+  --third-color: #023e8a;
+}
+.navHome .nav-link {
+  color: #3f37c9;
+
+  text-align: center;
+  font-family: Josefin Sans;
+  font-size: 1.3rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.navHome .active,
+.navHome .nav-link:hover {
+  border-bottom: #7d00d6 2px solid;
+  font-weight: 800;
+  color: #3f37c9 !important;
+  transition: border-bottom 0.3s ease, color 0.3s ease, font-weight 0.3s ease;
+}
+
+.navHome .nav-link {
+  transition: color 0.3s ease, font-weight 0.3s ease;
+}
+h2 {
+  color: #3f37c9;
+  font-family: Josefin Sans;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
